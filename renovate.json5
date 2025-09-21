@@ -8,7 +8,7 @@
         'renovate-playground',
     ],
     useBaseBranchConfig: 'merge',
-    branchPrefix: 'renovate/hivemq-hello-world-extension/',
+    branchPrefix: 'renovate/hivemq-apn-bridge-extension/',
     addLabels: [
         'integrations-team-coordination',
     ],

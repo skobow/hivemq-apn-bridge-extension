@@ -1,1 +1,1 @@
-rootProject.name = "hivemq-hello-world-extension"
+rootProject.name = "hivemq-apn-bridge-extension"
